@@ -30,7 +30,6 @@ while True:
             
         case "5":
             gutierrez_menu()
-            pass
         case "6":
             break   
         case _:
