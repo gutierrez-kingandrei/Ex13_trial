@@ -29,13 +29,13 @@ def gutierrez_menu():
                 #Comment from Arguelles
                 pause()
             case "4":
-                #Comment from Caya
+                print("Keep on dreaming. Padayon!")
                 pause()
             case "5":
-                #Comment from Condino
+                print("you LGTM -condino")
                 pause()
             case "6":
-                #Comment from Cordova
+                print("Hello, I admire your goal.")
                 pause() 
             case "7":
                 break   

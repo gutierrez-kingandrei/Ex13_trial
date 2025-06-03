@@ -26,13 +26,13 @@ def arguelles_menu():
                 print("To be a successful UX/UI Designer.")
                 pause()
             case "3":
-                # Caya's print comment Placeholder
+                print("Keep on dreaming. Padayon!")
                 pause()
             case "4":
-                # Condino's print comment Placeholder
+                print("you LGTM -condino")
                 pause()
             case "5":
-                # Cordova's print comment Placeholder
+                print("Hello, I admire your goal.")
                 pause()
             case "6":
                 print("Hello, King here!")
