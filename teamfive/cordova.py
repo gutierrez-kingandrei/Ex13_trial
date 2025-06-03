@@ -34,6 +34,7 @@ def cordova_menu():
             case "3":
                 buffer()
             case "4":
+                print("Keep on dreaming. Padayon!")
                 buffer()
             case "5":
                 buffer()
