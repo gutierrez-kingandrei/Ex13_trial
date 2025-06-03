@@ -30,11 +30,13 @@ def condino_menu():
             case "3":
                 pause()
             case "4":
+                print("Keep on dreaming. Padayon!")
                 pause()
             case "5":
                 print("Hello, I admire your goal.")
                 pause()
             case "6":
+                print("Hello, King here!")
                 pause()
             case "7":
                 break

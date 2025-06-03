@@ -34,11 +34,13 @@ def cordova_menu():
             case "3":
                 buffer()
             case "4":
+                print("Keep on dreaming. Padayon!")
                 buffer()
             case "5":
                 print("you LGTM -condino")
                 buffer()
             case "6":
+                print("Hello, King here!")
                 buffer()
             case "7":
                 break
