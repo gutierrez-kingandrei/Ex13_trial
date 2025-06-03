@@ -1,9 +1,13 @@
 #Import modules from teamfive package
-#TODO (ARGUELLES): Import Module
+from teamfive.arguelles import arguelles_menu
 #TODO (CAYA): Import Module
+#TODO (CONDINO): Import Module
+from teamfive.arguelles import arguelles_menu
+#TODO (ARGUELLES): Import Module
+from teamfive.caya import caya_menu
 from teamfive.condino import condino_menu
 from teamfive.cordova import cordova_menu
-#TODO (GUTIERREZ): Import Module
+from teamfive.gutierrez import gutierrez_menu
 
 while True:
     print("=== Team Member Menu ===")
@@ -18,11 +22,10 @@ while True:
     
     match choice:
         case "1":
-            #TODO (ARGUELLES): Call the appropriate function here
-            pass
+            arguelles_menu()
+            
         case "2":
-            #TODO (CAYA): Call the appropriate function here
-            pass
+            caya_menu() 
         case "3":
             condino_menu()
             
@@ -30,7 +33,7 @@ while True:
             cordova_menu()
             
         case "5":
-            #TODO (GUTIERREZ): Call the appropriate function here
+            gutierrez_menu()
             pass
         case "6":
             break   
