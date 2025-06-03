@@ -30,7 +30,6 @@ def gutierrez_menu():
                 pass
             case "4":
                 print("Keep on dreaming. Padayon!")
-                pass
             case "5":
                 #Comment from Condino
                 pass
