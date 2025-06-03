@@ -21,8 +21,7 @@ while True:
             #TODO (ARGUELLES): Call the appropriate function here
             pass
         case "2":
-            caya_menu()
-            
+            caya_menu() 
         case "3":
             #TODO (CONDINO): Call the appropriate function here
             pass
