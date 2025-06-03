@@ -27,15 +27,16 @@ def gutierrez_menu():
                 pause()
             case "3":
                 #Comment from Arguelles
-                pass
+                pause()
             case "4":
                 print("Keep on dreaming. Padayon!")
+                pause()
             case "5":
                 print("you LGTM -condino")
-                pass
+                pause()
             case "6":
                 print("Hello, I admire your goal.")
-                pass 
+                pause() 
             case "7":
                 break   
             case _:

@@ -36,6 +36,7 @@ def condino_menu():
                 print("Hello, I admire your goal.")
                 pause()
             case "6":
+                print("Hello, King here!")
                 pause()
             case "7":
                 break

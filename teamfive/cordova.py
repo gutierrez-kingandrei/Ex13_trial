@@ -40,6 +40,7 @@ def cordova_menu():
                 print("you LGTM -condino")
                 buffer()
             case "6":
+                print("Hello, King here!")
                 buffer()
             case "7":
                 break

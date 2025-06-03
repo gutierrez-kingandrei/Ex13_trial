@@ -35,7 +35,7 @@ def arguelles_menu():
                 print("Hello, I admire your goal.")
                 pause()
             case "6":
-                # Gutierrez's print comment Placeholder
+                print("Hello, King here!")
                 pause()
             case "7":
                 break
