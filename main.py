@@ -1,7 +1,7 @@
 #Import modules from teamfive package
 #TODO (ARGUELLES): Import Module
 #TODO (CAYA): Import Module
-#TODO (CONDINO): Import Module
+from teamfive.condino import condino_menu
 from teamfive.cordova import cordova_menu
 #TODO (GUTIERREZ): Import Module
 
@@ -24,8 +24,8 @@ while True:
             #TODO (CAYA): Call the appropriate function here
             pass
         case "3":
-            #TODO (CONDINO): Call the appropriate function here
-            pass
+            condino_menu()
+            
         case "4":
             cordova_menu()
             
