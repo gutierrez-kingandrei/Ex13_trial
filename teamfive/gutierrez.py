@@ -32,7 +32,7 @@ def gutierrez_menu():
                 #Comment from Caya
                 pass
             case "5":
-                #Comment from Condino
+                print("you LGTM -condino")
                 pass
             case "6":
                 print("Hello, I admire your goal.")

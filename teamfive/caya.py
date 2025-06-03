@@ -42,7 +42,7 @@ def caya_menu():
                 getch()  
             case "4":
                 clear()
-                # Condino's print comment Placeholder
+                print("you LGTM -condino")
                 getch() 
             case "5":
                 clear()
