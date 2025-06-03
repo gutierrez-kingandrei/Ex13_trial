@@ -28,6 +28,7 @@ def condino_menu():
                 print("My goal is to be a successful daughter and to be rich")
                 pause()
             case "3":
+                print("Goodluck, Condino! Keep it up!")
                 pause()
             case "4":
                 print("Keep on dreaming. Padayon!")
