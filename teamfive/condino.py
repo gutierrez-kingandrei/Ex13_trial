@@ -17,7 +17,7 @@ def condino_menu():
         print("6. Comment from Gutierrez")
         print("7. Exit")
             
-        choice = input("\nSelect a team member: ")
+        choice = input("\nEnter your choice: ")
             
         match choice:
             case "1":
