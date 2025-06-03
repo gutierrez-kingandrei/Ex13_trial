@@ -38,7 +38,7 @@ def caya_menu():
                 getch()
             case "3":
                 clear()
-                # Arguelles's print comment Placeholder
+                print("Keep up the good work, Caya!")
                 getch()  
             case "4":
                 clear()
