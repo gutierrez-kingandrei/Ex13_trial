@@ -29,7 +29,7 @@ while True:
             cordova_menu()
             
         case "5":
-            gutierrez_menu
+            gutierrez_menu()
             pass
         case "6":
             break   
