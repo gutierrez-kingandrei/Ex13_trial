@@ -29,8 +29,7 @@ def gutierrez_menu():
                 #Comment from Arguelles
                 pass
             case "4":
-                #Comment from Caya
-                pass
+                print("Keep on dreaming. Padayon!")
             case "5":
                 print("you LGTM -condino")
                 pass
