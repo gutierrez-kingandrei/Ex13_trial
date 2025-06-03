@@ -1,7 +1,6 @@
 import os
 
 def gutierrez_menu():
-    
     while True:
         clear_screen()
         print("Hello, I am King Andrei Gutierrez")
