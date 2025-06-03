@@ -32,6 +32,7 @@ def cordova_menu():
                 print("Goal: Graduate")
                 buffer()
             case "3":
+                print("Let's go, Aron! Keep it up!")
                 buffer()
             case "4":
                 buffer()
