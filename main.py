@@ -1,5 +1,5 @@
 #Import modules from teamfive package
-#TODO (ARGUELLES): Import Module
+from teamfive.arguelles import arguelles_menu
 #TODO (CAYA): Import Module
 #TODO (CONDINO): Import Module
 from teamfive.cordova import cordova_menu
