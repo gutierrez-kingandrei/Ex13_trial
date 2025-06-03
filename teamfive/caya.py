@@ -46,7 +46,7 @@ def caya_menu():
                 getch() 
             case "5":
                 clear()
-                # Cordova's print comment Placeholder
+                print("Hello, I admire your goal.")
                 getch()
             case "6":
                 clear()

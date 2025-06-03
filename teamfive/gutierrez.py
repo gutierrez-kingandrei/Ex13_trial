@@ -35,7 +35,7 @@ def gutierrez_menu():
                 #Comment from Condino
                 pass
             case "6":
-                #Comment from Cordova
+                print("Hello, I admire your goal.")
                 pass 
             case "7":
                 break   
