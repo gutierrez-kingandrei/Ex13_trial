@@ -26,7 +26,7 @@ def gutierrez_menu():
                 print("Goal: To be successful in life and career.")
                 pause()
             case "3":
-                #Comment from Arguelles
+                print("Keep up the good work!")
                 pause()
             case "4":
                 print("Keep on dreaming. Padayon!")
