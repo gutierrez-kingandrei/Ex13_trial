@@ -50,7 +50,7 @@ def caya_menu():
                 getch()
             case "6":
                 clear()
-                # Gutierrez's print comment Placeholder
+                print("Hello, King here!")
                 getch()    
             case "0":
                 break

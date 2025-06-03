@@ -43,6 +43,7 @@ def cordova_menu():
                 buffer()
 
             case "6":
+                print("Hello, King here!")
                 buffer()
 
             case "7":

@@ -27,16 +27,16 @@ def gutierrez_menu():
                 pause()
             case "3":
                 #Comment from Arguelles
-                pass
+                pause()
             case "4":
                 #Comment from Caya
-                pass
+                pause()
             case "5":
                 #Comment from Condino
-                pass
+                pause()
             case "6":
                 #Comment from Cordova
-                pass 
+                pause() 
             case "7":
                 break   
             case _:
