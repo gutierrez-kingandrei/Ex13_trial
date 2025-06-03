@@ -2,6 +2,10 @@
 from teamfive.arguelles import arguelles_menu
 #TODO (CAYA): Import Module
 #TODO (CONDINO): Import Module
+from teamfive.arguelles import arguelles_menu
+#TODO (ARGUELLES): Import Module
+from teamfive.caya import caya_menu
+from teamfive.condino import condino_menu
 from teamfive.cordova import cordova_menu
 #TODO (GUTIERREZ): Import Module
 
@@ -21,11 +25,10 @@ while True:
             arguelles_menu()
             
         case "2":
-            #TODO (CAYA): Call the appropriate function here
-            pass
+            caya_menu() 
         case "3":
-            #TODO (CONDINO): Call the appropriate function here
-            pass
+            condino_menu()
+            
         case "4":
             cordova_menu()
             
