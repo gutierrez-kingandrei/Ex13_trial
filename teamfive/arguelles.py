@@ -29,7 +29,7 @@ def arguelles_menu():
                 # Caya's print comment Placeholder
                 pause()
             case "4":
-                # Condino's print comment Placeholder
+                print("you LGTM -condino")
                 pause()
             case "5":
                 # Cordova's print comment Placeholder

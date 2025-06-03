@@ -40,6 +40,7 @@ def cordova_menu():
                 buffer()
 
             case "5":
+                print("you LGTM -condino")
                 buffer()
 
             case "6":
