@@ -32,7 +32,7 @@ def arguelles_menu():
                 # Condino's print comment Placeholder
                 pause()
             case "5":
-                # Cordova's print comment Placeholder
+                print("Hello, I admire your goal.")
                 pause()
             case "6":
                 # Gutierrez's print comment Placeholder
