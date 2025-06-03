@@ -28,30 +28,21 @@ def cordova_menu():
                 print("Age: 20 years old")
                 print("Birthdate: March 3, 2005")
                 buffer()
-
             case "2":
                 print("Goal: Graduate")
                 buffer()
-
             case "3":
                 buffer()
-
             case "4":
                 buffer()
-
             case "5":
+                print("you LGTM -condino")
                 buffer()
-
             case "6":
                 buffer()
-
             case "7":
                 break
-
             case _:
                 print("\nInvalid choice.")
                 buffer()
-
-if __name__ == "__main__":
-    cordova_menu()
-    
+                
