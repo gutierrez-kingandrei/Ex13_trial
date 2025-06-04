@@ -19,7 +19,7 @@ def arguelles_menu():
             case "1":
                 print("Name: Norlan C. Arguelles")
                 print("Date of Birth: December 10, 2004")
-                print("Age: 21")
+                print("Age: 20")
                 print("Talents: Singing, Drawing")
                 pause()
             case "2":
